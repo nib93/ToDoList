@@ -1,0 +1,8 @@
+body {
+    background-color: lightcoral;
+    transition: background-color 1s;
+  }
+  
+  body:hover {
+    background-color: rgb(128, 223, 240);
+  }
